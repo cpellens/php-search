@@ -1,4 +1,11 @@
 {
+  "name": "cpellens/php-search",
+  "authors": [
+    {
+      "name": "Charles Pellens",
+      "email": "cmpellens@hotmail.com"
+    }
+  ],
   "require": {
     "symfony/http-client": "^6.1",
     "typesense/typesense-php": "^4.8",
